@@ -1,1 +1,1 @@
-# Ticketing-System-object-detection
+# object-detection
